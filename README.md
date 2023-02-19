@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Pekman76
-- 👀 I’m interested in programming.
-- 🌱 I’m new here.
-- 💞️ I’m looking to collaborate with starters.
-- 📫 How to reach me ...
+# Hola, me llamo Javi...
+
+
+### Aqui ire subiendo mis proyectos
 
 <!---
 Pekman76/Pekman76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 # Hola, me llamo Javi...
 
 
-### Aqui ire subiendo mis proyectos
+### Aqui iré subiendo mis proyectos
 
 <!---
 Pekman76/Pekman76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

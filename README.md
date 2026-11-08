@@ -3,7 +3,6 @@
 
 ### Aqui iré subiendo mis proyectos
 
-![](https://eu01.edcwb.com/buscador/img/centros/logogrande/54264-96ad66dde92147e5a95f5750cd9132d3.jpg)
 
 ## Mis Repositorios
 
